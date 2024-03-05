@@ -1,11 +1,11 @@
 {
-    "graph":"https://graphql-su2022.bicbioeng.org/graphql/dids",
-    "tags":["Analysis","Tools","Datasets","Example Queries", "Publications"],
-    "S3_BUCKET": "reads-csv-storage",
-    "REGION": "us-east-1",
-    "ACCESS_KEY" : "AKIAVAPEKF346UDZFSIG",
-    "SECRET_ACCESS_KEY" : "OZVuG0Gk62NYAQY6zbyj910kZ22YgbRQG6XKERnU",
-    "GITHUB_KEY": "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",
+    "graph":"",
+    "tags":[],
+    "S3_BUCKET": "",
+    "REGION": "",
+    "ACCESS_KEY" : "",
+    "SECRET_ACCESS_KEY" : "",
+    "GITHUB_KEY": "",
     "SAMPLE_CHATGPT_API_KEY": "",
-    "events_gif" :"https://d3ivqzya2p0843.cloudfront.net/events.gif"
+    "events_gif" :""
 }
