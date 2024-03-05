@@ -1,0 +1,4 @@
+{
+    "graph":"http://localhost:4000/graphql/dids",
+    "tags":["Analysis","Tools","Datasets"]
+}

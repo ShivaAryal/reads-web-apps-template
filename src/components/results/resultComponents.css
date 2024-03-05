@@ -1,0 +1,29 @@
+.result-number {
+    margin-top: 5px;
+    font-size: 13px;
+    opacity: 0.9;
+    text-align: center;
+}
+
+.list-button{
+    margin-right: 10px;
+    border-radius: 10px;
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.list-right-image-view {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.next-step-button {
+    float: right;
+    margin-right: 20px;
+    background-color: #2E7D32;
+    border-radius: 10px;
+    color: #fff;
+    margin-bottom: 5px;
+}
