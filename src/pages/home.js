@@ -23,8 +23,6 @@ const Home = () => {
     navigate(`/results?q=${searchText}`);
   };
 
-  console.log(loading, error, data);
-
   return (
     <div>
       <Navigation />
