@@ -125,7 +125,7 @@ const TabContent = (props) => {
             <span style={{ fontWeight: "bold" }}>
               {data?.result[0]?.total || 0}
             </span>{" "}
-            {tab} found for the searched query
+            {tab} found for the searched query. " {searchQuery} "
           </p>
           {(selectedItems.length && (
             <Dropdown overlay={menu()}>
